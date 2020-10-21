@@ -1,0 +1,22 @@
+h1 {
+    color: violet
+}
+
+.header{
+    border: solid;
+    background-color: limegreen;
+    display: flex;
+    justify-content: space-around;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.grid2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
